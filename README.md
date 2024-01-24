@@ -26,8 +26,8 @@
   </div>
   <a href="https://rahulc0dy.github.io" align="center">
   <h3>My Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=rahulc0dy&show_icons=true&theme=one_dark_pro&title_color=#fff#gh-dark-mode-only" height="150"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulc0dy&layout=compact&theme=one_dark_pro" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=rahulc0dy&show_icons=true&theme=one_dark_pro&title_color=#fff#gh-dark-mode-only" height="175"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulc0dy&layout=compact&theme=one_dark_pro" height="175"/>
   </a>
 
 </p>
