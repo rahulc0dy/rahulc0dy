@@ -18,10 +18,10 @@
     </h2>
   </b>
 <p align="center">
-  <h3>My Skills</h3>
+  <h3>Technologies Using</h3>
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,tailwind,nodejs,react,nextjs,git,github,docker,vscode,bash,linux"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,deno,bun,expressjs,react,nextjs,git,github,docker,vscode,webstorm&perline=8"/>
     </a>
   </div>
   <a href="https://rahulc0dy.github.io" align="center">
@@ -39,25 +39,28 @@
 ### About Me
 - 🧑‍🎓 I'm a student of *Computer Science and Engineering* at *University of Calcutta*
 - 🔭 I'm currently exploring the vast world of Computer Science and honing my skills in various domains.
-- 🌱 I'm passionate about web development, algorithms (DSA), and programming languages like C++ and JavaScript.
+- 🌱 I'm passionate about web development, algorithms (DSA), and programming languages like TypeScript and JavaScript.
 - 🎓 I believe in continuous learning and enjoy staying up-to-date with the latest technologies.
   
 <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?theme=nord&quote=Think%20Twice,%20Code%20Once;"  align="right"/>
 
 ### Skills
-- 💻 Web Development
-- ⚛️ Next.js
-- 📚 Data Structures and Algorithms (DSA)
-- 🗣️ C++
-- 🌐 JavaScript
+🔸 Full Stack Web Development  
+🔸 Next.js  
+🔸 Express.js  
+🔸 TypeScipt, JavaScript  
+🔸 Data Structures and Algorithms (DSA)  
 
 ### Projects
-Here are some projects I've worked on:
+Here are some projects I've worked on:  
+💠 [Cravyn](cravyn-web-frontend.vercel.app)    [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://cravyn-web-frontend.vercel.app)  
+💠 [Promptopia](promptopia.vercel.app)    [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://promptopia.vercel.app)  
+💠 [Micro Auth](github.com/rahulc0dy/micro-auth)
 
 ### Portfolio Website
 
-- [Github Page](https://rahulcd0y.github.io) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://rahulc0dy.github.io)
-- [Portfolio](https://portfolio-webapp.framer.ai) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://portfolio-webapp.framer.ai)
+🔺 [Github Page](https://rahulcd0y.github.io) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://rahulc0dy.github.io)
+🔺 [Portfolio](https://portfolio-webapp.framer.ai) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://portfolio-webapp.framer.ai)
 
 ### Connect with Me
 📧 Email: rc645312@gmail.com
