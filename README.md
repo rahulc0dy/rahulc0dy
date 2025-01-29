@@ -62,6 +62,4 @@ Here are some projects I've worked on:
 🔺 [Github Page](https://rahulcd0y.github.io) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://rahulc0dy.github.io)
 🔺 [Portfolio](https://portfolio-webapp.framer.ai) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://portfolio-webapp.framer.ai)
 
-### Connect with Me
-📧 Email: rc645312@gmail.com
 
